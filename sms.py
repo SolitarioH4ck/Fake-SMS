@@ -52,4 +52,4 @@ input(f"""
 {rd}█ {dr}SMS ENVIADO PRESIONA ENTER{rd} █
 {rd}└════════════════════════════┘
 """)
-os.system("python w.py")
+os.system("python sms.py")

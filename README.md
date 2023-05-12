@@ -1,4 +1,6 @@
-# Fake-SMS es un Script para enviar sms anonimos👻
+# Fake-SMS es un simple script que usa textbel para enviar sms anonimos.👻
+
+#Nota: Este script tiene el tiempo limite de enviar un solo sms por dia
 
 Instalación:
 

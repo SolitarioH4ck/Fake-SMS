@@ -2,11 +2,11 @@
 
 Instalacion:
 
-• actualización apt && actualización apt 
+• apt update && apt upgrade -y
 
-• paquete instalar git
+• pkg install git
 
-•instalar pkg abre SSL 
+• pkg install openssl
 
 • git clone https://github.com/SolitarioH4ck/Fake-SMS
 

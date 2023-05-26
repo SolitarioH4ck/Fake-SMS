@@ -1,17 +1,17 @@
-# Fake-SMS es un simple script que utiliza textbel para enviar sms anonimos.👻
+# Fake-SMS es un simple script que utiliza api de textbel para enviar sms gratuitos y anónimos👻
 
-Instalación:
+Instalacion:
 
-apt update && apt upgrade
+• actualización apt && actualización apt 
 
-pkg install git
+• paquete instalar git
 
-pkg install openssl
+•instalar pkg abre SSL 
 
-git clone https://github.com/SolitarioH4ck/Fake-SMS
+• git clone https://github.com/SolitarioH4ck/Fake-SMS
 
-cd Fake-SMS
+• cd Fake-SMS
 
-bash Install.sh
+• bash Install.sh
 
-python sms.py
+• python sms.py
